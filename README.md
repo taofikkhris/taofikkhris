@@ -3,7 +3,7 @@
 🌱 I’m currently learning **Data Science, dan Big Data Analystics**<br />
 🌱 I’m currently learning **Mobile Development**<br />
 📝 I regulary write articles on [Kelas Coding](https://www.kelas-coding.blogspot.com/)<br />
-📝 I regulary write articles on [Gawewebs](https://www.gawewebs.com/)<br />
+📝 My Blogs in [Taofik Krisdiyanto Blogs](https://www.taofikkris.blogspot.com/)<br />
 
 <!--💬 Ask me about **Blogger (Google)**<br />
 <div style='text-align:center'>
