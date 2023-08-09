@@ -1,4 +1,4 @@
-# Hi <img src='https://github.com/taofikkris/taofikkris/blob/master/assets/Hi.gif' width='29' height='29' />, I'm Taofik Krisdiyanto ![](https://visitor-badge.glitch.me/badge?page_id=elhakimyasya.elhakimyasya)
+# Hi <img src='https://github.com/taofikkris/taofikkris/master/assets/Hi.gif' width='29' height='29' />, I'm Taofik Krisdiyanto ![](https://visitor-badge.glitch.me/badge?page_id=elhakimyasya.elhakimyasya)
 🌱 I’m currently learning **Web Development**<br />
 📝 I regulary write articles on [Kelas Coding](https://www.kelas-coding.blogspot.com/)<br />
  💬 Ask me about **Blogger (Google)**<br />
