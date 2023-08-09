@@ -1,7 +1,7 @@
 # Hi <img src='https://github.com/taofikkhris/taofikkris/blob/main/assets/Hi.gif' width='29' height='29' />, I'm Taofik Krisdiyanto ![](https://visitor-badge.glitch.me/badge?page_id=taofikkris.taofikkris)
 🌱 I’m currently learning **Web Development**<br />
-🌱 I’m currently learning **Mobile Development**<br />
 🌱 I’m currently learning **Data Science, dan Big Data Analystics**<br />
+🌱 I’m currently learning **Mobile Development**<br />
 📝 I regulary write articles on [Kelas Coding](https://www.kelas-coding.blogspot.com/)<br />
 📝 I regulary write articles on [Gawewebs](https://www.gawewebs.com/)<br />
 
